@@ -1,4 +1,4 @@
-# Source's technology roadmap
-This repository is used for planning the roadmap of the technology developped at Source Inc.
+# Source's technology wishlist
+This repository is used for planning the development cycles at Source Inc.
 
-🎯 Go to the roadmap [board](https://github.com/orgs/sourcenetwork/projects/9).
+🎯 Go to the wishlist [board](https://github.com/orgs/sourcenetwork/projects/9).
